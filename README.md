@@ -22,7 +22,7 @@ Add your OpenAI API key and Stability AI key to the .env file.
 ### Running the App
 To run the application, navigate to the directory containing the app and run:
 ```
-streamlit run your_script_name.py
+streamlit run demo.py
 ```
 
 ## How It Works
@@ -35,7 +35,3 @@ Technology
 - **GPT-4 Vision:** Provides AI-driven feedback for image refinement.
 Feel free to explore the code and adapt it for your own projects!
 
-
-```
-Replace `your_script_name.py` with the actual filename of your Streamlit script. This README provides a comprehensive guide that helps users understand and interact with your application effectively.
-```
