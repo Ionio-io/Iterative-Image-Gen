@@ -1,6 +1,11 @@
-# Iteratively Enhanced Image Generation
+# 🚀 Iteratively Enhanced Image Generation
 
 Build an iterative image enhancement process using the capabilities of Stable Diffusion and GPT-4 Vision. Allowing the users to generate images based on textual descriptions and iteratively refine these images based on GPT-4Vision's feedback.
+
+### [Read the blog!](https://www.ionio.ai/blog/iteratively-improving-product-images-using-gpt-v-and-stable-diffusion)
+
+### Architecture
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/d11b5ecc-48dc-44b1-adcd-afbbbfe9f20b)
 
 ## Features
 
@@ -9,7 +14,7 @@ Build an iterative image enhancement process using the capabilities of Stable Di
 - Allow users to refine the image iteratively based on AI suggestions.
 - Support multiple rounds of feedback and image regeneration to refine the outcome.
 
-## Setup
+## 🤖 Setup
 
 1. **Clone the Repository**: Clone this repository to your local machine.
 2. **Install Dependencies**:
@@ -18,14 +23,22 @@ Build an iterative image enhancement process using the capabilities of Stable Di
    ```
 ### Setup Environment Variables:
 Add your OpenAI API key and Stability AI key to the .env file.
+```
+OPENAI_API_KEY = <key_here>
+STABILITYAI_API_KEY = <key_here>
+```
 
-### Running the App
+### ⚙️ Running the App
 To run the application, navigate to the directory containing the app and run:
 ```
 streamlit run demo.py
 ```
 
-## How It Works
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/31aa9b22-da8e-48d8-9a23-9932aa417b2d)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/5f179b8e-0a01-4465-a10f-028776f0a45d)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/3b03b6f1-3f47-436e-a887-10cf0cb25727)
+
+## 🤔 How It Works
 - **Input Description:** Start by entering a description for the image you want to generate.
 - **Generate Image:** Click 'Generate Image' to create the initial image.
 - **Feedback and Refinement:** The AI analyzes the image and provides feedback. Edit this feedback if necessary and use it to regenerate a refined image.
