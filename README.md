@@ -34,10 +34,6 @@ To run the application, navigate to the directory containing the app and run:
 streamlit run demo.py
 ```
 
-![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/31aa9b22-da8e-48d8-9a23-9932aa417b2d)
-![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/5f179b8e-0a01-4465-a10f-028776f0a45d)
-![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/3b03b6f1-3f47-436e-a887-10cf0cb25727)
-
 ## 🤔 How It Works
 - **Input Description:** Start by entering a description for the image you want to generate.
 - **Generate Image:** Click 'Generate Image' to create the initial image.
