@@ -1,13 +1,13 @@
-# Iteratively Enhanced Images Demo
+# Iteratively Enhanced Image Generation
 
-This Streamlit application demonstrates an iterative image enhancement process using the capabilities of Stable Diffusion and GPT-4 Vision. It allows users to generate images based on textual descriptions and iteratively refine these images based on AI-generated feedback.
+Build an iterative image enhancement process using the capabilities of Stable Diffusion and GPT-4 Vision. Allowing the users to generate images based on textual descriptions and iteratively refine these images based on GPT-4Vision's feedback.
 
 ## Features
 
-- **Image Generation**: Generate initial images based on user-provided textual descriptions.
-- **Automated Feedback**: Utilize GPT-4 Vision to analyze generated images and suggest improvements.
-- **Iterative Enhancement**: Allow users to refine the image iteratively based on AI suggestions.
-- **Multiple Iterations**: Support multiple rounds of feedback and image regeneration to refine the outcome.
+- Generate initial images based on user-provided textual descriptions.
+- Utilize GPT-4 Vision to analyze generated images and suggest improvements.
+- Allow users to refine the image iteratively based on AI suggestions.
+- Support multiple rounds of feedback and image regeneration to refine the outcome.
 
 ## Setup
 
@@ -17,8 +17,8 @@ This Streamlit application demonstrates an iterative image enhancement process u
    pip install streamlit requests python-dotenv
    ```
 ### Setup Environment Variables:
-Rename .env.example to .env.
 Add your OpenAI API key and Stability AI key to the .env file.
+
 ### Running the App
 To run the application, navigate to the directory containing the app and run:
 ```
