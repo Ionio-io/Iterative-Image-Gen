@@ -34,6 +34,7 @@ To run the application, navigate to the directory containing the app and run:
 streamlit run demo.py
 ```
 
+
 ## 🤔 How It Works
 - **Input Description:** Start by entering a description for the image you want to generate.
 - **Generate Image:** Click 'Generate Image' to create the initial image.
@@ -43,4 +44,21 @@ Technology
 - **Stable Diffusion:** Used for generating images based on textual descriptions.
 - **GPT-4 Vision:** Provides AI-driven feedback for image refinement.
 Feel free to explore the code and adapt it for your own projects!
+
+
+## Example Prompt
+Imagine a young Indian man showcasing his casual fashion sense. He wears a dark pant paired with a subtle, geometric printed full-sleeve shirt. His accessories include a simple wrist watch, and shoes with brown leather. He stands against the backdrop of a an aesthetic grey color.
+
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/352a1fa2-1df2-4065-af2d-d01727550a68)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/06ef81de-f91e-48a9-93b0-e55c5e4febc5)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/d9ea58cd-964d-4138-8713-696948fcf994)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/4d5adbcb-a9b1-4d12-864f-cef02bfee37c)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/afc0cdf0-017a-4f91-afe7-0fcf9e498f16)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/2044a7af-2882-4290-9c52-b13e164c9cda)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/d455b3a8-997d-457e-ab4d-65a34008cc82)
+
+
+
+
+
 
