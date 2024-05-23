@@ -50,7 +50,7 @@ Feel free to explore the code and adapt it for your own projects!
 Imagine a young Indian man showcasing his casual fashion sense. He wears a dark pant paired with a subtle, geometric printed full-sleeve shirt. His accessories include a simple wrist watch, and shoes with brown leather. He stands against the backdrop of a an aesthetic grey color.
 
 ![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/352a1fa2-1df2-4065-af2d-d01727550a68)
-![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/06ef81de-f91e-48a9-93b0-e55c5e4febc5)
+![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/b04933bc-9047-4756-9dd0-d1117a8719d3)
 ![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/d9ea58cd-964d-4138-8713-696948fcf994)
 ![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/4d5adbcb-a9b1-4d12-864f-cef02bfee37c)
 ![image](https://github.com/Ionio-io/Iterative-Image-Gen/assets/87160848/afc0cdf0-017a-4f91-afe7-0fcf9e498f16)
